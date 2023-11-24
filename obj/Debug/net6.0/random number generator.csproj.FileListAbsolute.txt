@@ -1,0 +1,14 @@
+C:\Users\espen\source\repos\random number generator\random number generator\bin\Debug\net6.0\random number generator.exe
+C:\Users\espen\source\repos\random number generator\random number generator\bin\Debug\net6.0\random number generator.deps.json
+C:\Users\espen\source\repos\random number generator\random number generator\bin\Debug\net6.0\random number generator.runtimeconfig.json
+C:\Users\espen\source\repos\random number generator\random number generator\bin\Debug\net6.0\random number generator.dll
+C:\Users\espen\source\repos\random number generator\random number generator\bin\Debug\net6.0\random number generator.pdb
+C:\Users\espen\source\repos\random number generator\random number generator\obj\Debug\net6.0\random number generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\espen\source\repos\random number generator\random number generator\obj\Debug\net6.0\random number generator.AssemblyInfoInputs.cache
+C:\Users\espen\source\repos\random number generator\random number generator\obj\Debug\net6.0\random number generator.AssemblyInfo.cs
+C:\Users\espen\source\repos\random number generator\random number generator\obj\Debug\net6.0\random number generator.csproj.CoreCompileInputs.cache
+C:\Users\espen\source\repos\random number generator\random number generator\obj\Debug\net6.0\random number generator.dll
+C:\Users\espen\source\repos\random number generator\random number generator\obj\Debug\net6.0\refint\random number generator.dll
+C:\Users\espen\source\repos\random number generator\random number generator\obj\Debug\net6.0\random number generator.pdb
+C:\Users\espen\source\repos\random number generator\random number generator\obj\Debug\net6.0\random number generator.genruntimeconfig.cache
+C:\Users\espen\source\repos\random number generator\random number generator\obj\Debug\net6.0\ref\random number generator.dll
